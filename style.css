@@ -1,0 +1,178 @@
+body{
+    margin: 0 auto;
+    font-family: 'Poppins',sans-serif;
+}
+
+.header-bg{
+    height: 1073px;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.half-width{
+    padding-top: 10%;
+    width: 35%;
+    /* padding-left: 15%; */
+    float: left;
+}
+.content-header{
+    
+    padding-left: 20%;
+}
+.half-width h1{
+    font-size:50px;
+}
+.pink-highlight{
+    color:#ec4c7a;
+}
+.half-width p{
+    
+    font-family: 'Marcellus',sans-serif ;
+    color:gray;
+    line-height:2em;
+    padding-bottom: 30px;
+}
+.half-width img{
+    padding-top: 5%;
+    width:100%;
+    color:white;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 15px 30px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, #ff2a70, #ff024d);
+}
+.biography-bg{
+    height: 875px;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.bio-img img{
+  
+    padding-left: 30%;
+}
+.bio-content{
+    padding-left: 20%;
+}
+#latest-work-bg{
+    height: 500px;
+    padding-top: 5%;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.my-latest-work h2{
+
+    padding-bottom: 3%;
+    text-align: center;
+    font-size: 36px;
+}
+.full-work{
+    
+    width: 90%;
+    margin-left: 10%;
+    }
+.single-img{
+    width:25%;
+    float: left;
+    margin-left: 3%;
+}
+.single-img img{
+    width:100%;
+}
+.footer-bg{
+    height: 800px;
+    padding-top: 5%;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.footer-bg h1{
+    padding-bottom: 5%;
+    font-size: 36px;
+    text-align: center;
+}
+.footer-content{
+    text-align: center;
+}
+.footer-content h5{
+    color:gray;
+    text-align: center;
+}
+.footer-content p{
+    padding: 2% 35%;
+    font-size: 18px;
+}
+.messages-box{
+
+    padding: 3% 0;
+    margin:0 22%;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Marcellus',sans-serif ;
+    color: white;
+    background-color:#ec4c7a;
+}
+.messages-box:hover{
+    color: purple;
+    background-color:goldenrod;
+}
+.messages-box h5{
+    font-size: 16px;
+}
+.messages-box p{
+    font-size: 30px;
+}
+.copy-right-part p{
+    padding-top: 8%;
+    font-family: 'Marcellus',sans-serif ;
+    text-align:center;
+    font-size: 14px;
+}
+
+
+/* body{
+    margin: 0;
+    font-family: 'Poppins',sans-serif ;
+}
+h1{
+    font-size:40px;
+}
+.pink-highlight{
+    color:#ec4c7a;
+}
+
+.half-width{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+    color:white;
+}
+.half-width p{
+    
+    font-family: 'Marcellus',sans-serif ;
+    color:gray;
+    padding-bottom: 40px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 15px 30px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, #ff2a70, #ff024d);
+}
+section{
+    width: 1000px;
+    padding-bottom: 150px;
+}
+.header-bg{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+} */
